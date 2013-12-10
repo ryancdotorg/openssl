@@ -220,7 +220,7 @@ certain values are meaningful, for example OCSP and caIssuers.
 
 Example:
 
- authorityInfoAccess = OCSP;URI:http://ocsp.my.host/
+ authorityInfoAccess = OCSP;URI:http://ocsp.my.host
  authorityInfoAccess = caIssuers;URI:http://my.ca/ca.html
 
 
